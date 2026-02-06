@@ -2,11 +2,16 @@ name: harmonica
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - Dominic Sisneros <dominic@sisneros.io>
 
 crystal: '>= 1.19.1'
 
 license: MIT
+
+description: |
+  A Crystal port of charmbracelet/harmonica, a simple, efficient spring animation library
+  for smooth, natural motion. Provides physics-based animation tools for 2D and 3D
+  applications including spring animations and projectile simulation.
 
 development_dependencies:
   ameba:
