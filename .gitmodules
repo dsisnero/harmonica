@@ -1,0 +1,3 @@
+[submodule "harmonica_go"]
+	path = harmonica_go
+	url = https://github.com/charmbracelet/harmonica.git
